@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="21322911467864"
+    token="1952100001602936840"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="222" />
+    <task
+        name="instant-run-dex"
+        duration="1051" />
+    <task
+        name="instant-run-transform"
+        duration="15" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="19785105411801"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="21216793477937"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="21322911467864"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

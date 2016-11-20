@@ -1,0 +1,7 @@
+#Sun Nov 20 17:43:26 WIB 2016
+base.0=/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cddbcb15c53dbe5242a4e898c1fcad7d452e7c08
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1988cf81813e60501ca371434df97d4c1d49002/classes.dex
+base.1=/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1988cf81813e60501ca371434df97d4c1d49002
+file.0=/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cddbcb15c53dbe5242a4e898c1fcad7d452e7c08/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/layout/device_detail.xml",
+        "source": "/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/src/main/res/layout/device_detail.xml"
+    },
+    {
+        "merged": "/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/res/merged/debug/layout/row_devices.xml",
+        "source": "/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/src/main/res/layout/row_devices.xml"
+    }
+]

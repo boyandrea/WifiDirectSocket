@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="855f6b5ed942c91cdfc3f96859b5b932f6df30c9">
+        <dex dex="/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cddbcb15c53dbe5242a4e898c1fcad7d452e7c08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="18d23eeb8913273cd77055a3264072f45cf02087">
+        <dex dex="/Users/irfansp/AndroidStudioProjects/wifi-direct-demo-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c1988cf81813e60501ca371434df97d4c1d49002/classes.dex" />
+    </item>
+
+</items>
